@@ -1,0 +1,9 @@
+.router-link-active {
+  color: red;
+  background: white;
+}
+#app p {
+  border: 3px solid black;
+  display: flex;
+  justify-content: space-around;
+}
